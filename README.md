@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Chahrazed, and I'm a data analyst junior
+I'm Chahrazed, and I'm a data analyst junior.
 
 <!--
 **Chahrazed-31/Chahrazed-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
